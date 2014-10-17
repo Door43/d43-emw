@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[emw:home|Door43 (emw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-emw|d43-emw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-emw/archive/master.zip|d43-emw.zip]]
+
+**Recent Changes**
+{{changes>ns = emw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/emw|Ethnologue data]]
+
